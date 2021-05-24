@@ -6,6 +6,8 @@ use the comand `git clone https://github.com/Prometheo/cowryse-test.git` to clon
 
 create a virtual enviroment using the python venv module(or any of your choice) `python -m venv your-env-name`
 
+change directory to the cloned app with the command `cd cowryse-test`(on windows)
+
 install the app requirements with the command `pip install -r requirements.txt`
 
 start the development server with the command `python manage.py runserver`
